@@ -6,7 +6,7 @@ This application displays employee information in a table. It can be sorted by c
 
 ## [Deployed Application on Heroku](https://stormy-wave-61726.herokuapp.com/)
 
-![](./public/assets/emp-directory.gif)
+![](./client/public/assets/emp-directory.gif)
 
 ## Technology Stack
 
