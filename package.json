@@ -25,7 +25,7 @@
 	"homepage": "https://github.com/kristincenters/Directory#readme",
 	"dependencies": {
 		"concurrently": "^5.2.0",
-		"express": "^4.17.1",
+		"express": "^4.17.3",
 		"if-env": "^1.0.4",
 		"path": "^0.12.7"
 	}
